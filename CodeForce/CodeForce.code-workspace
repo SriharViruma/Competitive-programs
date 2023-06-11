@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../C++/Again"
+		},
+		{
+			"path": "../Practice"
+		},
+		{
+			"path": "../HackerRank"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"ostream": "cpp"
+		}
+	}
+}
